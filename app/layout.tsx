@@ -3,7 +3,7 @@ import "./globals.css";
 
 // On définit les métadonnées de la page pour le SEO (en évitant tout copyright)
 export const metadata: Metadata = {
-  title: "AXIS — La Méthode Édition Limitée",
+  title: "AXIS",
   description: "Le guide architectural ultime pour les développeurs modernes.",
  
 };
