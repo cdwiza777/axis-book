@@ -6,7 +6,7 @@ import PreviewModal from "@/components/PreviewModal";
 import Link from "next/link";
 
 const LS_CHECKOUT_URL =
-  "https://axis-book-777.lemonsqueezy.com/checkout/buy/73babe07-9e2b-4e9a-b641-5984cc10bdcf?embed=1";
+  "https://axis-book-777.lemonsqueezy.com/checkout/buy/16afd012-a014-4633-bc08-dfa18052b06f";
 
 const PRICE = "7,99€";
 
